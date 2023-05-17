@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hardy-Dahiya
-- 👀 I’m interested in Coding
-- 🌱 I’m Full Stack MERN Developer
+- 👀 interested in Coding
+- 🌱 Full Stack MERN Developer
 - 📫 How to reach me ...https://instagram.com/hardydahia
 
 <!---
